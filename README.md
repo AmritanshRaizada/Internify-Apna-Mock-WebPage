@@ -1,12 +1,23 @@
-# React + Vite
+🚀 ICICI Bank Mock Interview Page – React Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 Live Demo: View Deployed Site 
+🛠️ Stack Used: React + Tailwind CSS
+📄 Overview
 
-Currently, two official plugins are available:
+This project is a pixel-perfect clone of the ICICI Bank Head of Field Sales Mock Interview page, built as part of the Internify React Frontend Developer Internship Task.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The goal was to replicate the design as closely and responsively as possible, using modern frontend technologies with clean, reusable code.
 
-## Expanding the ESLint configuration
+🧰 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚛️ React – Component-based UI
+🎨 Tailwind CSS – Utility-first CSS for rapid styling
+🌐 Vite / CRA – (whichever you used, update here)
+📦 Deployed via: Vercel / Netlify (update based on what you used)
+📱 Responsiveness
+
+The layout is fully responsive across:
+
+📱 Mobile Devices
+💻 Tablets
+🖥️ Desktop Screens
